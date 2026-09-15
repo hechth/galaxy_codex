@@ -12,19 +12,19 @@ tabs:
         button_link: "https://doi.org/10.1093/nar/gkae410"
         button_tip: Access paper
         button_icon: view
-      - title_md: Workflow4Metabolomics (W4M): A User-Friendly Metabolomics Platform for Analysis of Mass Spectrometry and Nuclear Magnetic Resonance Data
+      - title_md: "Workflow4Metabolomics (W4M): A User-Friendly Metabolomics Platform for Analysis of Mass Spectrometry and Nuclear Magnetic Resonance Data"
         description_md: >
            Delporte, C., Tremblay-Franco, M., Guitton, Y., Canlet, C., Weber, R. J. M., Hecht, H., Price, E. J., Klánová, J., Joly, C., Dalle, C., Saint-Vanne, J., Thévenot, E., Schmitz, I., Chéreau, S., Dechaumet, S., Diémé, B., Giacomoni, F., Le Corguillé, G., Pétéra, M., & Souard, F. (2025). Workflow4Metabolomics (W4M): A user-friendly metabolomics platform for analysis of mass spectrometry and nuclear magnetic resonance data. Current Protocols, 5, e70095. doi: 10.1002/cpz1.70095
         button_link: "https://doi.org/10.1002/cpz1.70095"
         button_tip: Access paper
         button_icon: view
-      - title_md: "Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics"
+      - title_md: "Workflow4Metabolomics: A Collaborative Research Infrastructure for Computational Metabolomics"
         description_md: >
           Franck Giacomoni, Gildas Le Corguillé, Misharl Monsoor, Marion Landi, Pierre Pericard, Mélanie Pétéra, Christophe Duperier, Marie Tremblay-Franco, Jean-François Martin, Daniel Jacob, Sophie Goulitquer, Etienne A. Thévenot and Christophe Caron (2014). Workflow4Metabolomics: A collaborative research infrastructure for computational metabolomics. Bioinformatics. doi:10.1093/bioinformatics/btu813
         button_link: "https://doi.org/10.1093/bioinformatics/btu813"
         button_tip: Access paper
         button_icon: view
-      - title_md: Create, Run, Share, Publish, and Reference Your LC–MS, FIA–MS, GC–MS, and NMR Data Analysis Workflows with the Workflow4Metabolomics 3.0 Galaxy Online Infrastructure for Metabolomics.
+      - title_md: "Create, Run, Share, Publish, and Reference Your LC–MS, FIA–MS, GC–MS, and NMR Data Analysis Workflows with the Workflow4Metabolomics 3.0 Galaxy Online Infrastructure for Metabolomics."
         description_md: >
           Guitton, Yann, Marie Tremblay-Franco, Gildas Le Corguillé, Jean-François Martin, Mélanie Pétéra, Pierrick Roger-Mele, Alexis Delabrière, et al. 2017. “Create, Run, Share, Publish, and Reference Your LC–MS, FIA–MS, GC–MS, and NMR Data Analysis Workflows with the Workflow4Metabolomics 3.0 Galaxy Online Infrastructure for Metabolomics.” The International Journal of Biochemistry & Cell Biology 93: 89–101. doi.org/10.1016/j.biocel.2017.07.002
         button_link: "https://doi.org/10.1016/j.biocel.2017.07.002"
